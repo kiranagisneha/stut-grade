@@ -34,4 +34,4 @@ else:
 # Display results
 print("Script Name:", script_name)
 print("Average Marks:", average)
-print("Grade:", grade)
+print("Grade:", grade)
